@@ -1,0 +1,23 @@
+{
+  "name": "koala-template",
+  "version": "0.0.1",
+  "description": "Template for Koala - Static Website Generator",
+  "scripts": {
+    "init": "koala-webgen init",
+    "start": "koala-webgen start",
+    "build": "koala-webgen build"
+  },
+  "author": "Voyta Krizek, https://github.com/vkdot/",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KoalaSpace/koala-webgen.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KoalaSpace/koala-template/issues"
+  },
+  "homepage": "https://github.com/KoalaSpace/koala-template#readme",
+  "devDependencies": {
+    "koala-webgen": "0.0.3"
+  }
+}
