@@ -1,6 +1,6 @@
 {
   "name": "koala-template",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Template for Koala - Static Website Generator",
   "scripts": {
     "init": "koala-webgen init",
