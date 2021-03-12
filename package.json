@@ -11,13 +11,13 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KoalaSpace/koala-webgen.git"
+    "url": "git+https://github.com/NewTownData/koala-webgen.git"
   },
   "bugs": {
-    "url": "https://github.com/KoalaSpace/koala-template/issues"
+    "url": "https://github.com/NewTownData/koala-template/issues"
   },
-  "homepage": "https://github.com/KoalaSpace/koala-template#readme",
+  "homepage": "https://github.com/NewTownData/koala-template#readme",
   "devDependencies": {
-    "koala-webgen": "^1.0.0"
+    "koala-webgen": "^1.1.0"
   }
 }

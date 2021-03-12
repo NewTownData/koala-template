@@ -33,4 +33,4 @@ Your deployment artifacts are located in `dist` folder. You can copy them to you
 
 ## More Information
 
-Check https://github.com/KoalaSpace/koala-webgen#readme for more details.
+Check https://github.com/NewTownData/koala-webgen#readme for more details.
