@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/NewTownData/koala-template#readme",
   "devDependencies": {
-    "koala-webgen": "^1.2.0"
+    "koala-webgen": "^1.2.1"
   }
 }
